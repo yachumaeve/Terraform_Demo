@@ -2,7 +2,7 @@
 
 #### 什麼是Provider 
 Provider為各個雲公司提供與雲資源交互的後端驅動，不同的基礎設施提供商都需要提供一個Provider來實現對自家基礎設施的統一管理。
-由於每間雲公司提供的Provider使用方式不同，我們可以透過Terraform官網上提供的API來使用，例如AWS：
+由於每間雲公司提供的Provider使用方式不同，我們可以透過Terraform官網上提供的定義來使用，例如AWS：
 https://registry.terraform.io/providers/hashicorp/aws/latest
 
 1. 定義Provider
