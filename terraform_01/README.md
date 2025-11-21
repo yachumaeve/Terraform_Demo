@@ -16,7 +16,7 @@ https://registry.terraform.io/providers/hashicorp/aws/latest
     }
   
     required_version = ">= 1.2"
-  }
+     }
    ```
 2. 配置Provider
   ```
