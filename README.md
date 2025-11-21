@@ -20,3 +20,8 @@
 | **Terraform04** | 使用公有模組架構 Web 雲端服務（ALB + EC2 + RDS） | ALB、EC2、RDS、SG、user_data、EBS、Modules     |
 | **Terraform05** | 使用官方 VPC 模組建立具有公有/私有子網的完整 VPC      | VPC、Subnet、Route Table、NAT GW、VPN GW、IGW |
 
+## 我的 Terraform 學習筆記：
+1. 透過EC2使用Terraform進行部署 : https://hackmd.io/@Maeve/SyfqGHgFge
+2. 使用Variable 和Locals : https://hackmd.io/@Maeve/ByYleqZFle
+3. Terraform 模塊與參數傳遞 : https://hackmd.io/@Maeve/SkK0q3MFll
+4. Terraform plan 的重要性 : https://hackmd.io/@Maeve/ryRXJZQFxx
